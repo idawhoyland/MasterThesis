@@ -1,2 +1,2 @@
 # MasterThesis
-Code for price elasticity estimation and analysing surveydata with elasticity estimations.
+Code and datasets used for price elasticity estimation and feature analysing of surveydata.
